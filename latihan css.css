@@ -1,0 +1,14 @@
+h1{
+    color:blue;
+    font-size:30px;
+    font-family: Helvetica ;
+}
+#header_satu{
+    color:yellow;
+}
+.header{
+    color:magenta;
+}
+p{
+    color:green!important;
+}
